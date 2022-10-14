@@ -10,3 +10,19 @@ Machine Reading Comprehension (MRC) is a challenging task in natural language pr
 ## Overview of UtlTran
 
 <p align="center"><img width="80%" src="img/UtlTran.png" /></p>
+
+<!-- ## Getting Started
+### Build train/dev/test set from NaturalQ-MRQA dataset -->
+
+## How to cite
+
+```
+@inproceedings{nguyen2022machine,
+  title={Machine Reading Comprehension Model for Low-Resource Languages and Experimenting on Vietnamese},
+  author={Nguyen, Bach Hoang Tien and Nguyen, Dung Manh and Nguyen, Trang Thi Thu},
+  booktitle={International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems},
+  pages={370--381},
+  year={2022},
+  organization={Springer}
+}
+```
