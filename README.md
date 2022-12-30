@@ -11,8 +11,10 @@ Machine Reading Comprehension (MRC) is a challenging task in natural language pr
 
 <p align="center"><img width="80%" src="img/UtlTran.png" /></p>
 
-<!-- ## Getting Started
-### Build train/dev/test set from NaturalQ-MRQA dataset -->
+
+## Result
+
+<p align="center"><img width="80%" src="img/result.png" /></p>
 
 ## How to cite
 
