@@ -1,4 +1,6 @@
 ## Improve UtlTran with BLANC technique
+  Exact Match (EM): 71.83 -> 73.92
+  F1-score (F1): 88.17 -> 89.87
 
 ## Original UtlTran Approach
 ### Machine Reading Comprehension Model for Low-Resource Languages and Experimenting on Vietnamese
