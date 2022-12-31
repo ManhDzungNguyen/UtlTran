@@ -1,10 +1,10 @@
-## Improve UtlTran with BLANC technique
-### Result on ViQuAD test dataset
+# Improve UtlTran with BLANC technique
+## Result on ViQuAD test dataset
   - Exact Match (EM): 71.83 -> 73.92
   - F1-score (F1): 88.17 -> 89.87
 
-## Original UtlTran Approach
-### Machine Reading Comprehension Model for Low-Resource Languages and Experimenting on Vietnamese
+# Original UtlTran Approach
+## Machine Reading Comprehension Model for Low-Resource Languages and Experimenting on Vietnamese
 
 **Nguyen Hoang Tien Bach, Nguyen Manh Dung, Nguyen Thi Thu Trang** | [Paper](https://link.springer.com/chapter/10.1007/978-3-031-08530-7_31)
 
